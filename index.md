@@ -2,17 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Welcome to my Website! This is an online portfolio that summarises what I'm all about. I am a senior in the College of Engineering at the University of Michigan and my intended major is Computer Science.  Please take a moment to explore my site, where you’ll find details on my background, experience, skills and more. To learn more or connect on an opportunity, don’t hesitate to reach out.
 
 ## Header 2
 
