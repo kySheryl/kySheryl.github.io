@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-Welcome to my Website! I am a senior in the College of Engineering at the [University of Michigan](https://umich.edu/) majoring in [Computer Science](https://cse.engin.umich.edu/) with a dual degree of [Electrical and Computer Engineering](http://umji.sjtu.edu.cn/academics/undergraduate-program/electrical-and-computer-engineering/) at [Shanghai Jiao Tong University-Joint Institute](https://www.ji.sjtu.edu.cn/).
+Welcome to my Website! I am a senior in the College of Engineering at the [University of Michigan](https://umich.edu/) majoring in [Computer Science](https://cse.engin.umich.edu/) with a dual degree of [Electrical and Computer Engineering](http://umji.sjtu.edu.cn/academics/undergraduate-program/electrical-and-computer-engineering/) at [Shanghai Jiao Tong University - Joint Institute](https://www.ji.sjtu.edu.cn/).
 
 # Education
 
@@ -35,4 +35,7 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
    [Bashpole Software, Inc.](https://bashpolesoftware.com/) || August 2020 - December 2020<br>
     - Realize info extraction from nonprofits client websites with web crawling techniques and [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) sentence splitting, POS tagging, and dependency parsing models.
     - Develop automate Ads generation model and construct Bayes Networks for Ads Compliance Policy Project.
+    
+ - **Teaching Assistant (VP141 Physics Lab I)** <br>
+   Shanghai Jiao Tong University - Joint Institute || Instructor: [Mateusz Krzyzosiak](https://www.ji.sjtu.edu.cn/about/faculty-staff/faculty-directory/faculty-detail/97/) || May 2019 - August 2019<br>
 
