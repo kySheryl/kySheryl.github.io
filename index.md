@@ -44,3 +44,4 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
    Shanghai Jiao Tong University || Instructor: [Angela Gehling](https://www.linkedin.com/in/angela-gehling-22127b54/) || September 2019 - May 2019<br>
 
 
+![image](https://lh3.googleusercontent.com/a-/AOh14GiqLjoIOxCZhEa56jCT-3rAvsTfGU47wFz4FfIp=s96-c-rg-br100)
