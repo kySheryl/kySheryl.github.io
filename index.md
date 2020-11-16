@@ -23,7 +23,11 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
    September 2020 - Present || Instructed by [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/)<br>
     - Evaluate summary quality by annotating four types of un-faithful content, including hallucinations, mis-construction errors, world knowledge, and ambiguous errors.
     - Conduct research on abstractive document summarization generation models and summary error evaluations.
- - **Deep Learning Research on a Large-scale Research Platform**
-   June 2020 - Present || With [Iman Yeckehzaare] (https://www.si.umich.edu/people/iman-yeckehzaare) || [videos](https://www.youtube.com/watch?v=HJTQ9zHfJ1Y&list=PLgfGk2XWE_oA58aWUQ-BPYo5Bi7Sy35mh)<br>
+ - **Deep Learning Research on a Large-scale Research Platform**<br>
+   June 2020 - Present || With [Iman Yeckehzaare](https://www.si.umich.edu/people/iman-yeckehzaare) || [videos](https://www.youtube.com/watch?v=HJTQ9zHfJ1Y&list=PLgfGk2XWE_oA58aWUQ-BPYo5Bi7Sy35mh)<br>
     - Work as Leader Board Member on [1Cademy](https://1cademy.com/), a collaborative research platform and lead the deep learning map.
     - Lead weekly meeting of deep learning research team where team members collaboratively researching recent techniques and algorithm regarding applying deep reinforcement learning to improving human learning.
+ - **Mapleseed: Sensor Network Laboratory**<br>
+   January 2020 - Present || Instructed by [Prof. Xiaogan Liang](https://me.engin.umich.edu/people/faculty/xiaogan-liang)<br>
+    - Implement Convolutional Neural Network to perform classification of particles’ images captured by the optical microscopes on a fast drone.
+    - Lead the machine learning subteam and utilize NVIDIA Jetson Nano GPU board to realize real-time image classification.
