@@ -10,7 +10,7 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
 
  - **University of Michigan**, Ann Arbor (UM)<br>
    B.S.E in Computer Science || September 2019 - May 2021<br>
-   _Data Structure & Algorithm (A)    Intro to Computer Security (A)    Web Systems (A)_
+   _Data Structure & Algorithm (A)  ~~~~  Intro to Computer Security (A)    Web Systems (A)_<br>
    _Intro to Machine Learning (A+)    Natural Language Processing (in progress)    Computer Vision (in progress)_
    
  - **Shanghai Jiao Tong University**, Shanghai (SJTU)<br>
