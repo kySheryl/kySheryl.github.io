@@ -18,7 +18,7 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
    _Programming & Elem. Data Structures (A) &nbsp;&nbsp;&nbsp;  Intro to Logic Design (A+) &nbsp;&nbsp;&nbsp; Electronic Circuits (A)_<br>
    _Discrete Mathematics (A)  &nbsp;&nbsp;&nbsp;  Honors Mathematics II-IV (A, A+, A) &nbsp;&nbsp;&nbsp;  Probabilistic Methods (A+)_<br>
    
-# Experience
+# Research Experience
  - **Summary Error Evaluation Project**<br>
    Instructed by [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/) || September 2020 - Present <br>
     - Evaluate summary quality by annotating four types of un-faithful content and conduct research on abstractive document summarization generation models and summary error evaluations.
@@ -31,11 +31,16 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
    Instructed by [Prof. Xiaogan Liang](https://me.engin.umich.edu/people/faculty/xiaogan-liang) || January 2020 - Present <br>
     - Real-time image classification on a NVIDIA Jetson Nano GPU board of particles’ images captured by the optical microscopes on a fast drone.
     
+# Work Experience    
  - **Software Engineering Intern (Natural Language Processing)**<br>
    [Bashpole Software, Inc.](https://bashpolesoftware.com/) || August 2020 - December 2020<br>
     - Realize info extraction from nonprofits client websites with web crawling techniques and [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) sentence splitting, POS tagging, and dependency parsing models.
     - Develop automate Ads generation model and construct Bayes Networks for Ads Compliance Policy Project.
     
  - **Teaching Assistant (VP141 Physics Lab I)** <br>
-   Shanghai Jiao Tong University - Joint Institute || Instructor: [Mateusz Krzyzosiak](https://www.ji.sjtu.edu.cn/about/faculty-staff/faculty-directory/faculty-detail/97/) || May 2019 - August 2019<br>
+   Shanghai Jiao Tong University || Instructor: [Mateusz Krzyzosiak](https://www.ji.sjtu.edu.cn/about/faculty-staff/faculty-directory/faculty-detail/97/) || May 2019 - August 2019<br>
+ 
+ - **Teaching Assistant (VY100/VY200 Academic Writing I, II)** <br>
+   Shanghai Jiao Tong University || Instructor: [Angela Gehling](https://www.linkedin.com/in/angela-gehling-22127b54/) || September 2019 - May 2019<br>
+
 
