@@ -21,13 +21,10 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
 # Experience
  - **Summary Error Evaluation Project**<br>
    Instructed by [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/) || September 2020 - Present <br>
-    - Evaluate summary quality by annotating four types of un-faithful content, including hallucinations, mis-construction errors, world knowledge, and ambiguous errors.
-    - Conduct research on abstractive document summarization generation models and summary error evaluations.
- - **Deep Learning Research on a Large-scale Research Platform**<br>
+
+ - **Deep Learning Research on [1Cademy](https://1cademy.com/), a Large-scale Research Platform**<br>
    With [Iman Yeckehzaare](https://www.si.umich.edu/people/iman-yeckehzaare) || [videos](https://www.youtube.com/watch?v=HJTQ9zHfJ1Y&list=PLgfGk2XWE_oA58aWUQ-BPYo5Bi7Sy35mh) || June 2020 - Present<br>
-    - Work as Leader Board Member on [1Cademy](https://1cademy.com/), a collaborative research platform and lead the deep learning map.
-    - Lead weekly meeting of deep learning research team where team members collaboratively researching recent techniques and algorithm regarding applying deep reinforcement learning to improving human learning.
+   
  - **Mapleseed: Sensor Network Laboratory**<br>
    Instructed by [Prof. Xiaogan Liang](https://me.engin.umich.edu/people/faculty/xiaogan-liang) || January 2020 - Present <br>
-    - Implement Convolutional Neural Network to perform classification of particles’ images captured by the optical microscopes on a fast drone.
-    - Lead the machine learning subteam and utilize NVIDIA Jetson Nano GPU board to realize real-time image classification.
+
