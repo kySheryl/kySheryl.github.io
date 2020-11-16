@@ -8,7 +8,6 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
 
 # Education
 
- - **University of Michigan, Ann Arbor (UM)**
-   B.S.E in Computer Science, focusing on Machine Learning
+ - **University of Michigan, Ann Arbor (UM)**<br>
+   B.S.E in Computer Science||September 2019 - May 2021<br>
    
-   Expects: Sept.2019 - May 2021
