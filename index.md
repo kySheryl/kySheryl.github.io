@@ -43,5 +43,3 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
  - **Teaching Assistant (VY100/VY200 Academic Writing I, II)** <br>
    Shanghai Jiao Tong University || Instructor: [Angela Gehling](https://www.linkedin.com/in/angela-gehling-22127b54/) || September 2019 - May 2019<br>
 
-
-![image](https://raw.githubusercontent.com/kySheryl/kySheryl.github.io/master/186630813189388934.jpg?token=AOHHA5P675NSOAASMMNV5LS7XN52M)
