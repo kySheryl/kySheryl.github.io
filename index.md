@@ -16,4 +16,10 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
  - **Shanghai Jiao Tong University**, Shanghai (SJTU)<br>
    B.S.E in Electrical and Computer Engineering || September 2017 - August 2019<br>
    _Programming & Elem. Data Structures (A) &nbsp;&nbsp;&nbsp;  Intro to Logic Design (A+) &nbsp;&nbsp;&nbsp; Electronic Circuits (A)_<br>
-   _Discrete Mathematics (A)  &nbsp;&nbsp;&nbsp;  Honors Mathematics II-IV (A, A+, A) &nbsp;&nbsp;&nbsp;  Probabilistic Methods in Eng. (A+)_<br>
+   _Discrete Mathematics (A)  &nbsp;&nbsp;&nbsp;  Honors Mathematics II-IV (A, A+, A) &nbsp;&nbsp;&nbsp;  Probabilistic Methods (A+)_<br>
+   
+# Experience
+ - **Summary Error Project**
+   September 2020 - Present || Instructed by [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/)<br>
+    - Evaluate summary quality by annotating four types of un-faithful content, including hallucinations, mis-construction errors, world knowledge, and ambiguous errors.
+    - Conduct research on abstractive document summarization generation models and summary error evaluations.
