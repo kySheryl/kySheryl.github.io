@@ -9,5 +9,7 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
 # Education
 
  - **University of Michigan, Ann Arbor (UM)**
+ 
    B.S.E in Computer Engineering, focusing on Computer Architecture field
+   
    Expects: Sept.2019 - May 2021
