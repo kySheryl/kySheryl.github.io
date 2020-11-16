@@ -30,4 +30,9 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
  - **Mapleseed: Sensor Network Laboratory**<br>
    Instructed by [Prof. Xiaogan Liang](https://me.engin.umich.edu/people/faculty/xiaogan-liang) || January 2020 - Present <br>
     - Real-time image classification on a NVIDIA Jetson Nano GPU board of particles’ images captured by the optical microscopes on a fast drone.
+    
+ - **Software Engineering Intern (Natural Language Processing)**<br>
+   [Bashpole Software, Inc.](https://bashpolesoftware.com/) || August 2020 - December 2020<br>
+    - Realize info extraction from nonprofits client websites with web crawling techniques and [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) sentence splitting, POS tagging, and dependency parsing models.
+    - Develop automate Ads generation model and construct Bayes Networks for Ads Compliance Policy Project.
 
