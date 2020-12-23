@@ -47,10 +47,10 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
  - **Commonsense Reasoning for Natural Language Inference** <br>
  [[report]](https://drive.google.com/file/d/1e2F1MXjMZfJ_ymvXaxk6PqaC8NPzYvB6/view?usp=sharing) || [[slides]](https://drive.google.com/file/d/1_r0xKUZ7wcuSkiD8BQtdVEE2Hq1gVNzv/view?usp=sharing) || October 2020 - December 2020<br>
  Final project of EECS 595: Natural Language Processing || Instructor: [Prof. Joyce Chai](https://web.eecs.umich.edu/~chaijy/) <br>
- Explore large benchmarks and pretrained models like BERT and Roberta. Apply transfer learning and finetuning skills to develop reasoning frameworks for NLI tasks, including Question Answering, Conversation Entailment and Plausible Inference.
+   - Explore large benchmarks and pretrained models like BERT and Roberta. Apply transfer learning and finetuning skills to develop reasoning frameworks for NLI tasks, including Question Answering, Conversation Entailment and Plausible Inference.
 
 - **Unpaired Image-to-Image Style Transfer with Generative Adversarial Networks** <br>
  [[report]](https://drive.google.com/file/d/1r4-549KdIAUmINvfRvzW2fOA2AFVxkZ7/view?usp=sharing) || [[slides]](https://drive.google.com/file/d/1N4qXzuiKlcYaWnZiPL7Po-4vuQDtiL10/view?usp=sharing) || [[code]](https://github.com/Mars-tin/unpaired-image-to-image-translation) || October 2020 - December 2020<br>
  Final project of [EECS 442: Computer Vision](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa20/) || Instructor: [Prof. Andrew Owens](http://andrewowens.com/) <br>
- Conduct research on the application of Generative Adversarial Networks on image-to-image translation. Reproduce CycleGAN, StarGAN v1, and StarGAN v2 models for artistic image style transferring and perform quantitative evaluation with FID score and classification accuracy.
+  - Conduct research on the application of Generative Adversarial Networks on image-to-image translation. Reproduce CycleGAN, StarGAN v1, and StarGAN v2 models for artistic image style transferring and perform quantitative evaluation with FID score and classification accuracy.
 
