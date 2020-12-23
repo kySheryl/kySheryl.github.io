@@ -41,5 +41,11 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
    Shanghai Jiao Tong University || Instructor: [Mateusz Krzyzosiak](https://www.ji.sjtu.edu.cn/about/faculty-staff/faculty-directory/faculty-detail/97/) || May 2019 - August 2019<br>
  
  - **Teaching Assistant (VY100/VY200 Academic Writing I, II)** <br>
-   Shanghai Jiao Tong University || Instructor: [Angela Gehling](https://www.linkedin.com/in/angela-gehling-22127b54/) || September 2019 - May 2019<br>
+   Shanghai Jiao Tong University || Instructor: [Angela Gehling](https://www.linkedin.com/in/angela-gehling-22127b54/) || September 2018 - May 2019<br>
+   
+# Selected Projects
+ - **Reasoning Framework for Natural Language Inference** <br>
+ [report](https://drive.google.com/file/d/1e2F1MXjMZfJ_ymvXaxk6PqaC8NPzYvB6/view?usp=sharing) || [slides](https://drive.google.com/file/d/1_r0xKUZ7wcuSkiD8BQtdVEE2Hq1gVNzv/view?usp=sharing)<br>   
+ Final project of EECS 595: Natural Language Processing || Instructor: [Prof. Joyce Chai](https://web.eecs.umich.edu/~chaijy/).|| October 2020 - December 2020<br>
+  - Explore large benchmarks and pretrained models like BERT and Roberta. Apply transfer learning and finetuning skills to develop reasoning frameworks for NLI tasks, including Question Answering, Conversation Entailment and Plausible Inference.
 
