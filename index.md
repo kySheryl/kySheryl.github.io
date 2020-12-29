@@ -24,11 +24,11 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
     - Evaluate summary quality by annotating four types of un-faithful content and conduct research on abstractive document summarization generation models and summary error evaluations.
 
  - **Deep Learning Research on [1Cademy](https://1cademy.com/), a Large-scale Research Platform**<br>
-   With [Iman Yeckehzaare](https://www.si.umich.edu/people/iman-yeckehzaare) || [videos](https://www.youtube.com/watch?v=HJTQ9zHfJ1Y&list=PLgfGk2XWE_oA58aWUQ-BPYo5Bi7Sy35mh) || June 2020 - Present<br>
+   With [Iman Yeckehzaare](https://www.si.umich.edu/people/iman-yeckehzaare) || [[videos]](https://www.youtube.com/watch?v=HJTQ9zHfJ1Y&list=PLgfGk2XWE_oA58aWUQ-BPYo5Bi7Sy35mh) || June 2020 - Present<br>
     - Lead weekly meeting of deep learning research team where team members collaboratively researching recent techniques and algorithm regarding applying deep reinforcement learning to improving human learning.
    
  - **Mapleseed: Sensor Network Laboratory**<br>
-   Instructed by [Prof. Xiaogan Liang](https://me.engin.umich.edu/people/faculty/xiaogan-liang) || January 2020 - Present <br>
+   Instructed by [Prof. Xiaogan Liang](https://me.engin.umich.edu/people/faculty/xiaogan-liang) || [[report]](https://drive.google.com/file/d/1gY-ltsIQgOeHnJThU-AwPFc2KwvJwqGN/view?usp=sharing) || January 2020 - Present <br>
     - Real-time image classification on a NVIDIA Jetson Nano GPU board of particles’ images captured by the optical microscopes on a fast drone.
     
 # Work Experience    
