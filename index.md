@@ -24,7 +24,7 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
     - Evaluate summary quality by annotating four types of un-faithful content and conduct research on abstractive document summarization generation models and summary error evaluations.
 
  - **Deep Learning Research on [1Cademy](https://1cademy.com/), a Large-scale Research Platform**<br>
-   With [Iman Yeckehzaare](https://www.si.umich.edu/people/iman-yeckehzaare) || [[videos]](https://www.youtube.com/watch?v=HJTQ9zHfJ1Y&list=PLgfGk2XWE_oA58aWUQ-BPYo5Bi7Sy35mh) || June 2020 - Present<br>
+   With [Iman Yeckehzaare](https://www.si.umich.edu/people/iman-yeckehzaare) || [[codes]](https://github.com/kySheryl/Predicting-Long-term-Student-Engagement-Cognitive-Psychology-in-Deep-Knowledge-Tracing) || [[videos]](https://www.youtube.com/watch?v=HJTQ9zHfJ1Y&list=PLgfGk2XWE_oA58aWUQ-BPYo5Bi7Sy35mh) || June 2020 - Present<br>
     - Lead weekly meeting of deep learning research team where team members collaboratively researching recent techniques and algorithm regarding applying deep reinforcement learning to improving human learning.
    
  - **Mapleseed: Sensor Network Laboratory**<br>
@@ -32,6 +32,10 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
     - Real-time image classification on a NVIDIA Jetson Nano GPU board of particles’ images captured by the optical microscopes on a fast drone.
     
 # Work Experience    
+ - **Instructional Aide ([EECS498-004 Introduction to Natural Language Processing](https://web.eecs.umich.edu/~wangluxy/courses/eecs498_wn2021/eecs498_wn2021.html))** <br>
+   University of Michigan || Instructor: [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/) || January 2021 - April 2021<br>
+   - Design and grade assignments, answer students' questions on piazza, hold office hours   
+   
  - **Software Engineering Intern (Natural Language Processing)**<br>
    [Bashpole Software, Inc.](https://bashpolesoftware.com/) || August 2020 - December 2020<br>
     - Realize info extraction from nonprofits client websites with web crawling techniques and [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) sentence splitting, POS tagging, and dependency parsing models.
