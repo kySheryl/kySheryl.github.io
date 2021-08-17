@@ -4,17 +4,22 @@ layout: default
 
 # About Me
 
-Welcome to my Website! I am a senior in the College of Engineering at the [University of Michigan](https://umich.edu/) majoring in [Computer Science](https://cse.engin.umich.edu/) with a dual degree of [Electrical and Computer Engineering](http://umji.sjtu.edu.cn/academics/undergraduate-program/electrical-and-computer-engineering/) at [Shanghai Jiao Tong University - Joint Institute](https://www.ji.sjtu.edu.cn/).
+Welcome to my Website! I am a first-year master student at Columbia University majoring in Computer Science. I obtained my Dual Bachelor's Degree in [Computer Science](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/) and in [Electrical and Computer Engineering](http://umji.sjtu.edu.cn/academics/undergraduate-program/electrical-and-computer-engineering/) at [Shanghai Jiao Tong University - Joint Institute](https://www.ji.sjtu.edu.cn/). <br>
+
+I am broadly interested in Machine Learning, especially in Natural Language Processing, Computer Vision, and Deep Learning.
 
 # Education
 
- - **University of Michigan**, Ann Arbor (UM)<br>
+ - **Columbia University**, New York<br>
+   Master of Science in Computer Science || September 2021 - December 2022<br>
+
+ - **University of Michigan**, Ann Arbor<br>
    B.S.E in Computer Science || September 2019 - May 2021<br>
    _Data Structure & Algorithm (A)  &nbsp;&nbsp;&nbsp;  Intro to Computer Security (A) &nbsp;&nbsp;&nbsp;   Web Systems (A)_<br>
    _Machine Learning (A+)  &nbsp;&nbsp;&nbsp;  Natural Language Processing (A+)  Computer Vision (A+)_<br>
    
- - **Shanghai Jiao Tong University**, Shanghai (SJTU)<br>
-   B.S.E in Electrical and Computer Engineering || September 2017 - August 2019<br>
+ - **Shanghai Jiao Tong University**, Shanghai<br>
+   B.S.E in Electrical and Computer Engineering || September 2017 - August 2021<br>
    _Programming & Elem. Data Structures (A) &nbsp;&nbsp;&nbsp;  Intro to Logic Design (A+) &nbsp;&nbsp;&nbsp; Electronic Circuits (A)_<br>
    _Discrete Mathematics (A)  &nbsp;&nbsp;&nbsp;  Honors Mathematics II-IV (A, A+, A) &nbsp;&nbsp;&nbsp;  Probabilistic Methods (A+)_<br>
    
@@ -48,13 +53,20 @@ Welcome to my Website! I am a senior in the College of Engineering at the [Unive
    Shanghai Jiao Tong University || Instructor: [Angela Gehling](https://www.linkedin.com/in/angela-gehling-22127b54/) || September 2018 - May 2019<br>
    
 # Selected Projects
+
+- **3D Semantic Segmentation by Deep Learning** <br>
+ [[report]](https://drive.google.com/file/d/1-IVecff9TcjR_HJN0eMAeMco1_lWTQlB/view?usp=sharing) || [[video]](https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/view?usp=sharing) || [[code]](https://github.com/kySheryl/Cylinder3D) || May 2021 - August 2021 <br>
+ Capstone Project at Shanghai Jiaotong University || Instructor: Dr. Mingjian Li & Dr. Hao Sun <br>
+   - Captured real scenes using Lidar sensor and collected corresponding Lidar point cloud data
+   - Improved baseline segmentation model, Cylinder3D, including data encoding, model architecture, and loss function
+
  - **Commonsense Reasoning for Natural Language Inference** <br>
  [[report]](https://drive.google.com/file/d/1e2F1MXjMZfJ_ymvXaxk6PqaC8NPzYvB6/view?usp=sharing) || [[slides]](https://drive.google.com/file/d/1_r0xKUZ7wcuSkiD8BQtdVEE2Hq1gVNzv/view?usp=sharing) || October 2020 - December 2020<br>
  Final project of EECS 595: Natural Language Processing || Instructor: [Prof. Joyce Chai](https://web.eecs.umich.edu/~chaijy/) <br>
-   - Explore large benchmarks and pretrained models like BERT and Roberta. Apply transfer learning and finetuning skills to develop reasoning frameworks for NLI tasks, including Question Answering, Conversation Entailment and Plausible Inference.
+   - Explored large benchmarks and pretrained models like BERT and Roberta. Applied transfer learning and finetuning skills to develop reasoning frameworks for NLI tasks, including Question Answering, Conversation Entailment and Plausible Inference.
 
 - **Unpaired Image-to-Image Style Transfer with Generative Adversarial Networks** <br>
  [[report]](https://drive.google.com/file/d/1r4-549KdIAUmINvfRvzW2fOA2AFVxkZ7/view?usp=sharing) || [[slides]](https://drive.google.com/file/d/1N4qXzuiKlcYaWnZiPL7Po-4vuQDtiL10/view?usp=sharing) || [[code]](https://github.com/Mars-tin/unpaired-image-to-image-translation) || October 2020 - December 2020<br>
  Final project of [EECS 442: Computer Vision](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa20/) || Instructor: [Prof. Andrew Owens](http://andrewowens.com/) <br>
-  - Conduct research on the application of Generative Adversarial Networks on image-to-image translation. Reproduce CycleGAN, StarGAN v1, and StarGAN v2 models for artistic image style transferring and perform quantitative evaluation with FID score and classification accuracy.
+  - Conducted research on the application of Generative Adversarial Networks on image-to-image translation. Reproduced CycleGAN, StarGAN v1, and StarGAN v2 models for artistic image style transferring and performed quantitative evaluation with FID score and classification accuracy.
 
