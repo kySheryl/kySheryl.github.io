@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Welcome to my Website! I am a first-year master student at Columbia University majoring in Computer Science. I obtained my Dual Bachelor's Degree in [Computer Science](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/) and in [Electrical and Computer Engineering](http://umji.sjtu.edu.cn/academics/undergraduate-program/electrical-and-computer-engineering/) at [Shanghai Jiao Tong University - Joint Institute](https://www.ji.sjtu.edu.cn/). <br>
+Welcome to my Website! I am a first-year master student at [Columbia University](https://www.columbia.edu/) majoring in [Computer Science](https://www.cs.columbia.edu/)  (Machine Learning Track). I obtained my Dual Bachelor's Degree in [Computer Science](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/) and in [Electrical and Computer Engineering](http://umji.sjtu.edu.cn/academics/undergraduate-program/electrical-and-computer-engineering/) at [Shanghai Jiao Tong University - Joint Institute](https://www.ji.sjtu.edu.cn/). <br>
 
 I am broadly interested in Machine Learning, especially in Natural Language Processing, Computer Vision, and Deep Learning.
 
@@ -12,6 +12,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
 
  - **Columbia University**, New York<br>
    Master of Science in Computer Science || September 2021 - December 2022<br>
+   _Cloud Computing & Big Data  &nbsp;&nbsp;&nbsp;  Intro to Database  &nbsp;&nbsp;&nbsp;   Natural Language Processing_<br>
 
  - **University of Michigan**, Ann Arbor<br>
    B.S.E in Computer Science || September 2019 - May 2021<br>
@@ -24,19 +25,28 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
    _Discrete Mathematics (A)  &nbsp;&nbsp;&nbsp;  Honors Mathematics II-IV (A, A+, A) &nbsp;&nbsp;&nbsp;  Probabilistic Methods (A+)_<br>
    
 # Research Experience
+ - **Deep Learning Model for Making Predictions on Shotgun Metagenomic Sequencing Data**<br>
+   Instructed by [Prof. Itsik Pe'er](http://www.cs.columbia.edu/~itsik/) and Vanesa Getseva  || September 2021 - Present <br>
+    - Conduct literature research on shotgun metagenomic sequencing data and collect datasets with proper number of subjects, samples, and time intervals.
+    - Deploy a recurrent neural network (RNN) to make predictions on shotgun metagenomic sequencing data and compare its performance to the performance of traditional Markovian models.
+
  - **Summary Error Evaluation Project**<br>
-   Instructed by [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/) || September 2020 - Present <br>
+   Instructed by [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/) || September 2020 - May 2021 <br>
     - Evaluate summary quality by annotating four types of un-faithful content and conduct research on abstractive document summarization generation models and summary error evaluations.
 
  - **Deep Learning Research on [1Cademy](https://1cademy.com/), a Large-scale Research Platform**<br>
-   With [Iman Yeckehzaare](https://www.si.umich.edu/people/iman-yeckehzaare) || [[codes]](https://github.com/kySheryl/Predicting-Long-term-Student-Engagement-Cognitive-Psychology-in-Deep-Knowledge-Tracing) || [[videos]](https://www.youtube.com/watch?v=HJTQ9zHfJ1Y&list=PLgfGk2XWE_oA58aWUQ-BPYo5Bi7Sy35mh) || June 2020 - Present<br>
+   With [Iman Yeckehzaare](https://www.si.umich.edu/people/iman-yeckehzaare) || [[codes]](https://github.com/kySheryl/Predicting-Long-term-Student-Engagement-Cognitive-Psychology-in-Deep-Knowledge-Tracing) || [[videos]](https://www.youtube.com/watch?v=HJTQ9zHfJ1Y&list=PLgfGk2XWE_oA58aWUQ-BPYo5Bi7Sy35mh) || June 2020 - April 2021<br>
     - Lead weekly meeting of deep learning research team where team members collaboratively researching recent techniques and algorithm regarding applying deep reinforcement learning to improving human learning.
    
  - **Mapleseed: Sensor Network Laboratory**<br>
-   Instructed by [Prof. Xiaogan Liang](https://me.engin.umich.edu/people/faculty/xiaogan-liang) || [[report]](https://drive.google.com/file/d/1gY-ltsIQgOeHnJThU-AwPFc2KwvJwqGN/view?usp=sharing) || January 2020 - Present <br>
+   Instructed by [Prof. Xiaogan Liang](https://me.engin.umich.edu/people/faculty/xiaogan-liang) || [[report]](https://drive.google.com/file/d/1gY-ltsIQgOeHnJThU-AwPFc2KwvJwqGN/view?usp=sharing) || January 2020 - April 2021 <br>
     - Real-time image classification on a NVIDIA Jetson Nano GPU board of particles’ images captured by the optical microscopes on a fast drone.
     
 # Work Experience    
+ - **Course Assistant (COMS W4995 Applied Machine Learning)** <br>
+   Columbia University || Instructor: [Dr. Vijay Pappu](https://www.linkedin.com/in/vijay-pappu-ph-d-3647766/) || September 2021 - Present<br>
+   - Design and grade assignments and exams, answer students' questions, hold office hours   
+ 
  - **Instructional Aide ([EECS498-004 Introduction to Natural Language Processing](https://web.eecs.umich.edu/~wangluxy/courses/eecs498_wn2021/eecs498_wn2021.html))** <br>
    University of Michigan || Instructor: [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/) || January 2021 - April 2021<br>
    - Design and grade assignments, answer students' questions on piazza, hold office hours   
@@ -59,6 +69,12 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
  Capstone Project at Shanghai Jiaotong University || Instructor: Dr. Mingjian Li & Dr. Hao Sun <br>
    - Captured real scenes using Lidar sensor and collected corresponding Lidar point cloud data
    - Improved baseline segmentation model, Cylinder3D, including data encoding, model architecture, and loss function
+  
+- **High-speed Search Engine from Scratch in C++** <br>
+ [[report]](https://drive.google.com/file/d/172UXSwlVx6K-J8qx5WTSIrOv6gCFIlqn/view?usp=sharing) || [[slides]](https://drive.google.com/file/d/1DxhTrliO5wprU14PspebUXWQ6MANsFDH/view?usp=sharing) || January 2021 - April 2021<br>
+ Final project of [EECS 440: System Design of a Search Engine](https://web.eecs.umich.edu/~nham/Documents/EECS440%20System%20Design%20of%20a%20Search%20Engine%20Supporting%20Statement.pdf) || Instructor: [Prof. Nicole Hamilton](https://web.eecs.umich.edu/~nham/) <br>
+   - Established an index constructor and compresses total disk usage to 2TB by serializing term posting lists using UTF-8 encoding and document deltas when writing index chunks from memory to disk
+   - Ranked retrieved pages using fine-tuned heuristics and static page attributes to achieve a >70% precision
 
  - **Commonsense Reasoning for Natural Language Inference** <br>
  [[report]](https://drive.google.com/file/d/1e2F1MXjMZfJ_ymvXaxk6PqaC8NPzYvB6/view?usp=sharing) || [[slides]](https://drive.google.com/file/d/1_r0xKUZ7wcuSkiD8BQtdVEE2Hq1gVNzv/view?usp=sharing) || October 2020 - December 2020<br>
