@@ -19,7 +19,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
  - **University of Michigan**, Ann Arbor<br>
    B.S.E in Computer Science || September 2019 - May 2021<br>
    _Data Structure & Algorithm &nbsp;&nbsp;&nbsp;  Intro to Computer Security &nbsp;&nbsp;&nbsp;   Web Systems_<br>
-   _Machine Learning  &nbsp;&nbsp;&nbsp;  Natural Language Processing  Computer Vision_<br>
+   _Machine Learning  &nbsp;&nbsp;&nbsp;  Natural Language Processing &nbsp;&nbsp;&nbsp; Computer Vision_<br>
    
  - **Shanghai Jiao Tong University**, Shanghai<br>
    B.S.E in Electrical and Computer Engineering || September 2017 - August 2021<br>
