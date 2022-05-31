@@ -43,7 +43,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
         <img src="assets/images/3D_image.png" alt="3D Semantic Segmentation by Deep Learning" width="600"/>
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/103ZEV7azts05oQ_qinV3iheobHfum6pn/preview" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/103ZEV7azts05oQ_qinV3iheobHfum6pn/preview" frameborder="0" allowfullscreen="true" width="640" height="480"> </iframe>
 </figure>
 
    - Captured real scenes using Lidar sensor and collected corresponding Lidar point cloud data
