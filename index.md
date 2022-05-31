@@ -31,7 +31,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
 - **Automated Essay Scoring Web Application** <br>
  [[report]](https://drive.google.com/file/d/1CpHpMt7MNV6BHm0VayDdV3Lda2zx2ffD/view?usp=sharing) || [[video]](https://www.youtube.com/watch?v=bl1eQ_p8P2U) || [[code]](https://github.com/kySheryl/Automated_Essay_Scoring) || September 2021 - December 2021 <br>
  Final project of COMS 6998: Cloud Computing & Big Data || Instructor: [Prof. Sambit Sahu](https://www.linkedin.com/in/sambitsahu/) and [Dr. Yuan Zhao](https://www.linkedin.com/in/yuanzhao0501/) <br>
- ![AES_architecture](assets/images/AES_arch.jpg)
+       <img src="assets/images/AES_arch.jpg" alt="AES_architecture" width="600"/>
    -  Solved the longstanding problem of high cost and low turnaround of current English writing tests. The goal is to shift testing away from standardized bubble tests to tests that evaluate critical thinking, problem-solving, and other 21st century skills. 
    -  Designed frontend and backend architecture and utilized AWS services to build the application, including S3, API Gateway, DynamoDB, Lambda Function, Cognito, and Sagemaker. 
    -  Deployed a user-friendly website on AWS S3 connecting with 14 pre-trained machine learning models’ endpoints on AWS Sagemaker, that could provide scores and beat rates on users’ submissions. It gives good predictions on essays with high, medium, and low performances.
