@@ -32,7 +32,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
  [[report]](https://drive.google.com/file/d/1CpHpMt7MNV6BHm0VayDdV3Lda2zx2ffD/view?usp=sharing) || [[video]](https://www.youtube.com/watch?v=bl1eQ_p8P2U) || [[code]](https://github.com/kySheryl/Automated_Essay_Scoring) || September 2021 - December 2021 <br>
  Final project of COMS 6998: Cloud Computing & Big Data || Instructor: [Prof. Sambit Sahu](https://www.linkedin.com/in/sambitsahu/) and [Dr. Yuan Zhao](https://www.linkedin.com/in/yuanzhao0501/) <br>
 
-&nbsp;&nbsp;&nbsp;<figure class="video_container">
+<figure class="video_container">
   <iframe src="https://www.youtube.com/embed/bl1eQ_p8P2U" frameborder="0" allowfullscreen="true" width="560" height="315" allow="autoplay"> </iframe>
 </figure>
 
