@@ -31,7 +31,11 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
 - **Automated Essay Scoring Web Application** <br>
  [[report]](https://drive.google.com/file/d/1CpHpMt7MNV6BHm0VayDdV3Lda2zx2ffD/view?usp=sharing) || [[video]](https://www.youtube.com/watch?v=bl1eQ_p8P2U) || [[code]](https://github.com/kySheryl/Automated_Essay_Scoring) || September 2021 - December 2021 <br>
  Final project of COMS 6998: Cloud Computing & Big Data || Instructor: [Prof. Sambit Sahu](https://www.linkedin.com/in/sambitsahu/) and [Dr. Yuan Zhao](https://www.linkedin.com/in/yuanzhao0501/) <br>
-       <img src="assets/images/AES_arch.jpg" alt="AES_architecture" width="500"/>
+
+      <figure class="video_container">
+        <iframe src="https://www.youtube.com/embed/bl1eQ_p8P2U" frameborder="0" allowfullscreen="true" width="560" height="315" allow="autoplay"> </iframe>
+      </figure>
+
    -  Solved the longstanding problem of high cost and low turnaround of current English writing tests. The goal is to shift testing away from standardized bubble tests to tests that evaluate critical thinking, problem-solving, and other 21st century skills. 
    -  Designed frontend and backend architecture and utilized AWS services to build the application, including S3, API Gateway, DynamoDB, Lambda Function, Cognito, and Sagemaker. 
    -  Deployed a user-friendly website on AWS S3 connecting with 14 pre-trained machine learning models’ endpoints on AWS Sagemaker, that could provide scores and beat rates on users’ submissions. It gives good predictions on essays with high, medium, and low performances.
@@ -40,11 +44,10 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
 - **3D Semantic Segmentation by Deep Learning** <br>
  [[report]](https://drive.google.com/file/d/1-IVecff9TcjR_HJN0eMAeMco1_lWTQlB/view?usp=sharing) || [[video]](https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/view?usp=sharing) || [[code]](https://github.com/kySheryl/Cylinder3D) || May 2021 - August 2021 <br>
  Capstone Project at Shanghai Jiaotong University || Instructor: Dr. Mingjian Li & Dr. Hao Sun <br>
-        <img src="assets/images/3D_image.png" alt="3D Semantic Segmentation by Deep Learning" width="600"/>
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/103ZEV7azts05oQ_qinV3iheobHfum6pn/preview" frameborder="0" allowfullscreen="true" width="640" height="480"> </iframe>
-</figure>
+      <figure class="video_container">
+        <iframe src="https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/preview" frameborder="0" allowfullscreen="true" width="640" height="480" allow="autoplay"> </iframe>
+      </figure>
 
    - Captured real scenes using Lidar sensor and collected corresponding Lidar point cloud data
    - Improved baseline segmentation model, Cylinder3D, including data encoding, model architecture, and loss function
