@@ -41,13 +41,11 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
  [[report]](https://drive.google.com/file/d/1-IVecff9TcjR_HJN0eMAeMco1_lWTQlB/view?usp=sharing) || [[video]](https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/view?usp=sharing) || [[code]](https://github.com/kySheryl/Cylinder3D) || May 2021 - August 2021 <br>
  Capstone Project at Shanghai Jiaotong University || Instructor: Dr. Mingjian Li & Dr. Hao Sun <br>
         <img src="assets/images/3D_image.png" alt="3D Semantic Segmentation by Deep Learning" width="600"/>
-<!-- blank line -->
+
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="assets/images/3D_image.png">
-    <source src="[path/to/video.mp4](https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/view?usp=sharing)" type="video/mp4">
-  </video>
+  <iframe src="https://drive.google.com/file/d/103ZEV7azts05oQ_qinV3iheobHfum6pn/preview" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<!-- blank line -->
+
    - Captured real scenes using Lidar sensor and collected corresponding Lidar point cloud data
    - Improved baseline segmentation model, Cylinder3D, including data encoding, model architecture, and loss function
   
