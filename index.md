@@ -31,7 +31,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
 - **Automated Essay Scoring Web Application** <br>
  [[report]](https://drive.google.com/file/d/1CpHpMt7MNV6BHm0VayDdV3Lda2zx2ffD/view?usp=sharing) || [[video]](https://www.youtube.com/watch?v=bl1eQ_p8P2U) || [[code]](https://github.com/kySheryl/Automated_Essay_Scoring) || September 2021 - December 2021 <br>
  Final project of COMS 6998: Cloud Computing & Big Data || Instructor: [Prof. Sambit Sahu](https://www.linkedin.com/in/sambitsahu/) and [Dr. Yuan Zhao](https://www.linkedin.com/in/yuanzhao0501/) <br>
-       <img src="assets/images/AES_arch.jpg" alt="AES_architecture" width="600"/>
+       <img src="assets/images/AES_arch.jpg" alt="AES_architecture" width="500"/>
    -  Solved the longstanding problem of high cost and low turnaround of current English writing tests. The goal is to shift testing away from standardized bubble tests to tests that evaluate critical thinking, problem-solving, and other 21st century skills. 
    -  Designed frontend and backend architecture and utilized AWS services to build the application, including S3, API Gateway, DynamoDB, Lambda Function, Cognito, and Sagemaker. 
    -  Deployed a user-friendly website on AWS S3 connecting with 14 pre-trained machine learning models’ endpoints on AWS Sagemaker, that could provide scores and beat rates on users’ submissions. It gives good predictions on essays with high, medium, and low performances.
@@ -40,12 +40,14 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
 - **3D Semantic Segmentation by Deep Learning** <br>
  [[report]](https://drive.google.com/file/d/1-IVecff9TcjR_HJN0eMAeMco1_lWTQlB/view?usp=sharing) || [[video]](https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/view?usp=sharing) || [[code]](https://github.com/kySheryl/Cylinder3D) || May 2021 - August 2021 <br>
  Capstone Project at Shanghai Jiaotong University || Instructor: Dr. Mingjian Li & Dr. Hao Sun <br>
+        <img src="assets/images/3D_image.png" alt="3D Semantic Segmentation by Deep Learning" width="600"/>
    - Captured real scenes using Lidar sensor and collected corresponding Lidar point cloud data
    - Improved baseline segmentation model, Cylinder3D, including data encoding, model architecture, and loss function
   
 - **High-speed Search Engine from Scratch in C++** <br>
  [[report]](https://drive.google.com/file/d/172UXSwlVx6K-J8qx5WTSIrOv6gCFIlqn/view?usp=sharing) || [[slides]](https://drive.google.com/file/d/1DxhTrliO5wprU14PspebUXWQ6MANsFDH/view?usp=sharing) || January 2021 - April 2021<br>
  Final project of [EECS 440: System Design of a Search Engine](https://web.eecs.umich.edu/~nham/Documents/EECS440%20System%20Design%20of%20a%20Search%20Engine%20Supporting%20Statement.pdf) || Instructor: [Prof. Nicole Hamilton](https://web.eecs.umich.edu/~nham/) <br>
+        <img src="assets/images/search_engine.png" alt="Search Engine" width="450"/>
    - Established an index constructor and compresses total disk usage to 2TB by serializing term posting lists using UTF-8 encoding and document deltas when writing index chunks from memory to disk
    - Ranked retrieved pages using fine-tuned heuristics and static page attributes to achieve a >70% precision
 
@@ -57,6 +59,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
 - **Unpaired Image-to-Image Style Transfer with Generative Adversarial Networks** <br>
  [[report]](https://drive.google.com/file/d/1r4-549KdIAUmINvfRvzW2fOA2AFVxkZ7/view?usp=sharing) || [[slides]](https://drive.google.com/file/d/1N4qXzuiKlcYaWnZiPL7Po-4vuQDtiL10/view?usp=sharing) || [[code]](https://github.com/Mars-tin/unpaired-image-to-image-translation) || October 2020 - December 2020<br>
  Final project of [EECS 442: Computer Vision](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa20/) || Instructor: [Prof. Andrew Owens](http://andrewowens.com/) <br>
+         <img src="assets/images/CycleGAN_img2img.png" alt="Unpaired Image-to-Image Style Transfer with GAN" width="600"/>
   - Conducted research on the application of Generative Adversarial Networks on image-to-image translation. Reproduced CycleGAN, StarGAN v1, and StarGAN v2 models for artistic image style transferring and performed quantitative evaluation with FID score and classification accuracy.
 
 # Work Experience    
