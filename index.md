@@ -73,11 +73,11 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
 # Work Experience    
 
 - **Software Engineering Intern**<br>
-   [Duolingo, Inc.](https://www.duolingo.com/) || May 2022 - Present<br>
-
- - **Course Assistant (COMS W4995 Applied Machine Learning)** <br>
-   Columbia University || Instructor: [Dr. Vijay Pappu](https://www.linkedin.com/in/vijay-pappu-ph-d-3647766/) || September 2021 - December 2021<br>
-   - Design and grade assignments and exams, answer students' questions, hold office hours   
+   [Duolingo, Inc.](https://www.duolingo.com/) || May 2022 - August 2022<br>
+    - Developed unit assignment prototype with Python (for backend) and TypeScript/React (for frontend) on Duolingo for Schools
+    - Implemented API supports for create, edit, and delete unit assignments, built methods for handling the SNS events, triggering push
+notifications, and sending student-facing emails, and updated frontend Teacher Dashboard
+    - Cooperated with product design team on implementation details and designed metrics for user onboarding flow experiment
  
  - **Instructional Aide ([EECS498-004 Introduction to Natural Language Processing](https://web.eecs.umich.edu/~wangluxy/courses/eecs498_wn2021/eecs498_wn2021.html))** <br>
    University of Michigan || Instructor: [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/) || January 2021 - April 2021<br>
