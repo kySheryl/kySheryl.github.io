@@ -42,7 +42,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
 
 
 - **3D Semantic Segmentation by Deep Learning** <br>
- [[report]](https://drive.google.com/file/d/1-IVecff9TcjR_HJN0eMAeMco1_lWTQlB/view?usp=sharing) || [[video]](https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/view?usp=sharing) || [[code]](https://github.com/kySheryl/Cylinder3D) || May 2021 - August 2021 <br>
+ [[video]](https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/view?usp=sharing) || [[code]](https://github.com/kySheryl/Cylinder3D) || May 2021 - August 2021 <br>
  Capstone Project at Shanghai Jiaotong University || Instructor: Dr. Mingjian Li & Dr. Hao Sun <br>
 
 <figure class="video_container">
