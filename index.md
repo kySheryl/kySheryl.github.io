@@ -82,11 +82,6 @@ notifications, and sending student-facing emails, and updated frontend Teacher D
  - **Instructional Aide ([EECS498-004 Introduction to Natural Language Processing](https://web.eecs.umich.edu/~wangluxy/courses/eecs498_wn2021/eecs498_wn2021.html))** <br>
    University of Michigan || Instructor: [Prof. Lu Wang](https://web.eecs.umich.edu/~wangluxy/) || January 2021 - April 2021<br>
    - Design and grade assignments, answer students' questions on piazza, hold office hours   
-   
- - **Software Engineering Intern (Natural Language Processing)**<br>
-   [Bashpole Software, Inc.](https://bashpolesoftware.com/) || August 2020 - December 2020<br>
-    - Realize info extraction from nonprofits client websites with web crawling techniques and [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) sentence splitting, POS tagging, and dependency parsing models.
-    - Develop automate Ads generation model and construct Bayes Networks for Ads Compliance Policy Project.
     
  - **Teaching Assistant (VP141 Physics Lab I)** <br>
    Shanghai Jiao Tong University || Instructor: [Mateusz Krzyzosiak](https://www.ji.sjtu.edu.cn/about/faculty-staff/faculty-directory/faculty-detail/97/) || May 2019 - August 2019<br>
