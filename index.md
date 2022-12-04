@@ -4,9 +4,12 @@ layout: default
 
 # About Me
 
-Welcome to my Website! I am a first-year master student at [Columbia University](https://www.columbia.edu/) majoring in [Computer Science](https://www.cs.columbia.edu/)  (Machine Learning Track). I obtained my Dual Bachelor's Degree in [Computer Science](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/) and in [Electrical and Computer Engineering](http://umji.sjtu.edu.cn/academics/undergraduate-program/electrical-and-computer-engineering/) at [Shanghai Jiao Tong University - Joint Institute](https://www.ji.sjtu.edu.cn/). <br>
+Welcome to my Website! I am a second-year master student at [Columbia University](https://www.columbia.edu/) majoring in [Computer Science](https://www.cs.columbia.edu/)  (Machine Learning Track). I obtained my Dual Bachelor's Degree in [Computer Science](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/) and in [Electrical and Computer Engineering](http://umji.sjtu.edu.cn/academics/undergraduate-program/electrical-and-computer-engineering/) at [Shanghai Jiao Tong University - Joint Institute](https://www.ji.sjtu.edu.cn/). <br>
 
 I am broadly interested in Machine Learning, especially in Natural Language Processing, Computer Vision, and Deep Learning.
+
+**Thrilled to start my career journey at [Duolingo](https://www.duolingo.com/) as a Software Engineer!**
+
 
 # Education
 
