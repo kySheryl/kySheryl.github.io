@@ -49,7 +49,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
  Capstone Project at Shanghai Jiaotong University || Instructor: Dr. Mingjian Li & Dr. Hao Sun <br>
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/preview" frameborder="0" allowfullscreen="true" width="640" height="480" allow="autoplay"> </iframe>
+  <iframe src="https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/preview" frameborder="0" allowfullscreen="true" width="640" height="400" allow="autoplay"> </iframe>
 </figure>
 
    - Captured real scenes using Lidar sensor and collected corresponding Lidar point cloud data
