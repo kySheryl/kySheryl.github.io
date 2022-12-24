@@ -34,7 +34,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
  - **Monocular Depth Prediction** <br>
  [[report]](https://drive.google.com/file/d/1QdNO7_ODcYgqMkundIMso1Cf99aWWLls/view?usp=share_link) || [[code]](https://github.com/kySheryl/Monocular_Depth-Prediction) || September 2022 - December 2022 <br>
  Final project of COMS 4995 006: Deep Learning for Computer Vision || Instructor: [Prof. Peter Belhumeur](https://www.peterbelhumeur.com/) <br>
-         <img src="assets/images/depth_prediction.png" alt="Monocular Depth Prediction" width="600"/>
+         <img src="assets/images/depth_prediction.png" alt="Monocular Depth Prediction" width="450"/>
    -  Implemented convolutional autoencoder, U-Net, and pretrained + decoder models from scratch for monocular depth prediction tasks.
    -  Developed models that can successfully predict the depth map with small incorrectness.
 
@@ -57,7 +57,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
  Capstone Project at Shanghai Jiaotong University || Instructor: Dr. Mingjian Li & Dr. Hao Sun <br>
 
   <figure class="video_container">
-    <iframe src="https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/preview" frameborder="0" allowfullscreen="true" width="640" height="400" allow="autoplay"> </iframe>
+    <iframe src="https://drive.google.com/file/d/1ixje5NcE_ymb83gApAEFUImQbMmO_TxI/preview" frameborder="0" allowfullscreen="true" width="560" height="300" allow="autoplay"> </iframe>
   </figure>
 
    - Captured real scenes using Lidar sensor and collected corresponding Lidar point cloud data
@@ -78,7 +78,7 @@ I am broadly interested in Machine Learning, especially in Natural Language Proc
 - **Unpaired Image-to-Image Style Transfer with Generative Adversarial Networks** <br>
  [[report]](https://drive.google.com/file/d/1r4-549KdIAUmINvfRvzW2fOA2AFVxkZ7/view?usp=sharing) || [[slides]](https://drive.google.com/file/d/1N4qXzuiKlcYaWnZiPL7Po-4vuQDtiL10/view?usp=sharing) || [[code]](https://github.com/Mars-tin/unpaired-image-to-image-translation) || October 2020 - December 2020<br>
  Final project of [EECS 442: Computer Vision](https://www.eecs.umich.edu/courses/eecs442-ahowens/fa20/) || Instructor: [Prof. Andrew Owens](http://andrewowens.com/) <br>
-         <img src="assets/images/CycleGAN_img2img.png" alt="Unpaired Image-to-Image Style Transfer with GAN" width="600"/>
+         <img src="assets/images/CycleGAN_img2img.png" alt="Unpaired Image-to-Image Style Transfer with GAN" width="450"/>
   - Conducted research on the application of Generative Adversarial Networks on image-to-image translation. Reproduced CycleGAN, StarGAN v1, and StarGAN v2 models for artistic image style transferring and performed quantitative evaluation with FID score and classification accuracy.
 
 # Work Experience    
